@@ -129,6 +129,10 @@ nav #flechita_nav a:after
 	font-family: "icomoon";
 	opacity: 0.6;
 }
+nav #penultimo_nav
+{
+margin-right: 100px;
+}
 nav #publicar_nav
 {
 	/*i is zorri*/
@@ -137,6 +141,7 @@ nav #publicar_nav
 	margin-right: 0; 
 	padding-right: 1em;
 	position: relative;
+	margin-left: -100px;
 }
 nav #publicar_nav:after
 {
